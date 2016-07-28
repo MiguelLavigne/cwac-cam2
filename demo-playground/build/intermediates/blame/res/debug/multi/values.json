@@ -1,0 +1,1339 @@
+[
+    {
+        "outputFile": "/Users/mlavigne/development/workspace/cwac-cam2/demo-playground/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 6,
+                    "endColumn": 17,
+                    "endOffset": 182
+                },
+                "from": {
+                    "file": "/Users/mlavigne/development/workspace/cwac-cam2/demo-playground/src/main/res/values/arrays.xml",
+                    "position": {
+                        "startLine": 79,
+                        "startColumn": 2,
+                        "startOffset": 1931,
+                        "endLine": 83,
+                        "endColumn": 17,
+                        "endOffset": 2058
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 187,
+                    "endLine": 11,
+                    "endColumn": 17,
+                    "endOffset": 296
+                },
+                "from": {
+                    "file": "/Users/mlavigne/development/workspace/cwac-cam2/demo-playground/src/main/res/values/arrays.xml",
+                    "position": {
+                        "startLine": 84,
+                        "startColumn": 2,
+                        "startOffset": 2061,
+                        "endLine": 88,
+                        "endColumn": 17,
+                        "endOffset": 2170
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 301,
+                    "endLine": 18,
+                    "endColumn": 17,
+                    "endOffset": 470
+                },
+                "from": {
+                    "file": "/Users/mlavigne/development/workspace/cwac-cam2/demo-playground/src/main/res/values/arrays.xml",
+                    "position": {
+                        "startLine": 62,
+                        "startColumn": 2,
+                        "startOffset": 1522,
+                        "endLine": 68,
+                        "endColumn": 17,
+                        "endOffset": 1691
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 475,
+                    "endLine": 24,
+                    "endColumn": 17,
+                    "endOffset": 616
+                },
+                "from": {
+                    "file": "/Users/mlavigne/development/workspace/cwac-cam2/demo-playground/src/main/res/values/arrays.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 2,
+                        "startOffset": 214,
+                        "endLine": 13,
+                        "endColumn": 17,
+                        "endOffset": 355
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 621,
+                    "endLine": 30,
+                    "endColumn": 17,
+                    "endOffset": 779
+                },
+                "from": {
+                    "file": "/Users/mlavigne/development/workspace/cwac-cam2/demo-playground/src/main/res/values/arrays.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 2,
+                        "startOffset": 53,
+                        "endLine": 7,
+                        "endColumn": 17,
+                        "endOffset": 211
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 31,
+                    "startColumn": 4,
+                    "startOffset": 784,
+                    "endLine": 35,
+                    "endColumn": 17,
+                    "endOffset": 893
+                },
+                "from": {
+                    "file": "/Users/mlavigne/development/workspace/cwac-cam2/demo-playground/src/main/res/values/arrays.xml",
+                    "position": {
+                        "startLine": 74,
+                        "startColumn": 2,
+                        "startOffset": 1819,
+                        "endLine": 78,
+                        "endColumn": 17,
+                        "endOffset": 1928
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 36,
+                    "startColumn": 4,
+                    "startOffset": 898,
+                    "endLine": 40,
+                    "endColumn": 17,
+                    "endOffset": 1020
+                },
+                "from": {
+                    "file": "/Users/mlavigne/development/workspace/cwac-cam2/demo-playground/src/main/res/values/arrays.xml",
+                    "position": {
+                        "startLine": 69,
+                        "startColumn": 2,
+                        "startOffset": 1694,
+                        "endLine": 73,
+                        "endColumn": 17,
+                        "endOffset": 1816
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 41,
+                    "startColumn": 4,
+                    "startOffset": 1025,
+                    "endLine": 47,
+                    "endColumn": 17,
+                    "endOffset": 1175
+                },
+                "from": {
+                    "file": "/Users/mlavigne/development/workspace/cwac-cam2/demo-playground/src/main/res/values/arrays.xml",
+                    "position": {
+                        "startLine": 45,
+                        "startColumn": 2,
+                        "startOffset": 1132,
+                        "endLine": 51,
+                        "endColumn": 17,
+                        "endOffset": 1282
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 48,
+                    "startColumn": 4,
+                    "startOffset": 1180,
+                    "endLine": 54,
+                    "endColumn": 17,
+                    "endOffset": 1362
+                },
+                "from": {
+                    "file": "/Users/mlavigne/development/workspace/cwac-cam2/demo-playground/src/main/res/values/arrays.xml",
+                    "position": {
+                        "startLine": 38,
+                        "startColumn": 2,
+                        "startOffset": 947,
+                        "endLine": 44,
+                        "endColumn": 17,
+                        "endOffset": 1129
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 55,
+                    "startColumn": 4,
+                    "startOffset": 1367,
+                    "endLine": 60,
+                    "endColumn": 17,
+                    "endOffset": 1498
+                },
+                "from": {
+                    "file": "/Users/mlavigne/development/workspace/cwac-cam2/demo-playground/src/main/res/values/arrays.xml",
+                    "position": {
+                        "startLine": 32,
+                        "startColumn": 2,
+                        "startOffset": 813,
+                        "endLine": 37,
+                        "endColumn": 17,
+                        "endOffset": 944
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 61,
+                    "startColumn": 4,
+                    "startOffset": 1503,
+                    "endLine": 66,
+                    "endColumn": 17,
+                    "endOffset": 1666
+                },
+                "from": {
+                    "file": "/Users/mlavigne/development/workspace/cwac-cam2/demo-playground/src/main/res/values/arrays.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 2,
+                        "startOffset": 647,
+                        "endLine": 31,
+                        "endColumn": 17,
+                        "endOffset": 810
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 67,
+                    "startColumn": 4,
+                    "startOffset": 1671,
+                    "endLine": 71,
+                    "endColumn": 17,
+                    "endOffset": 1799
+                },
+                "from": {
+                    "file": "/Users/mlavigne/development/workspace/cwac-cam2/demo-playground/src/main/res/values/arrays.xml",
+                    "position": {
+                        "startLine": 89,
+                        "startColumn": 2,
+                        "startOffset": 2173,
+                        "endLine": 93,
+                        "endColumn": 17,
+                        "endOffset": 2301
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 72,
+                    "startColumn": 4,
+                    "startOffset": 1804,
+                    "endLine": 76,
+                    "endColumn": 17,
+                    "endOffset": 1912
+                },
+                "from": {
+                    "file": "/Users/mlavigne/development/workspace/cwac-cam2/demo-playground/src/main/res/values/arrays.xml",
+                    "position": {
+                        "startLine": 94,
+                        "startColumn": 2,
+                        "startOffset": 2304,
+                        "endLine": 98,
+                        "endColumn": 17,
+                        "endOffset": 2412
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 77,
+                    "startColumn": 4,
+                    "startOffset": 1917,
+                    "endLine": 82,
+                    "endColumn": 17,
+                    "endOffset": 2062
+                },
+                "from": {
+                    "file": "/Users/mlavigne/development/workspace/cwac-cam2/demo-playground/src/main/res/values/arrays.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 2,
+                        "startOffset": 499,
+                        "endLine": 25,
+                        "endColumn": 17,
+                        "endOffset": 644
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 83,
+                    "startColumn": 4,
+                    "startOffset": 2067,
+                    "endLine": 88,
+                    "endColumn": 17,
+                    "endOffset": 2205
+                },
+                "from": {
+                    "file": "/Users/mlavigne/development/workspace/cwac-cam2/demo-playground/src/main/res/values/arrays.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 2,
+                        "startOffset": 358,
+                        "endLine": 19,
+                        "endColumn": 17,
+                        "endOffset": 496
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 89,
+                    "startColumn": 4,
+                    "startOffset": 2210,
+                    "endLine": 93,
+                    "endColumn": 17,
+                    "endOffset": 2322
+                },
+                "from": {
+                    "file": "/Users/mlavigne/development/workspace/cwac-cam2/demo-playground/src/main/res/values/arrays.xml",
+                    "position": {
+                        "startLine": 57,
+                        "startColumn": 2,
+                        "startOffset": 1407,
+                        "endLine": 61,
+                        "endColumn": 17,
+                        "endOffset": 1519
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 94,
+                    "startColumn": 4,
+                    "startOffset": 2327,
+                    "endLine": 98,
+                    "endColumn": 17,
+                    "endOffset": 2446
+                },
+                "from": {
+                    "file": "/Users/mlavigne/development/workspace/cwac-cam2/demo-playground/src/main/res/values/arrays.xml",
+                    "position": {
+                        "startLine": 52,
+                        "startColumn": 2,
+                        "startOffset": 1285,
+                        "endLine": 56,
+                        "endColumn": 17,
+                        "endOffset": 1404
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 99,
+                    "startColumn": 4,
+                    "startOffset": 2451,
+                    "endColumn": 63,
+                    "endOffset": 2510
+                },
+                "from": {
+                    "file": "/Users/mlavigne/development/workspace/cwac-cam2/demo-playground/build/intermediates/exploded-aar/cwac-cam2/cam2/unspecified/res/values/values.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 63,
+                        "endOffset": 114
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 100,
+                    "startColumn": 4,
+                    "startOffset": 2515,
+                    "endColumn": 55,
+                    "endOffset": 2566
+                },
+                "from": {
+                    "file": "/Users/mlavigne/development/workspace/cwac-cam2/demo-playground/build/intermediates/exploded-aar/cwac-cam2/cam2/unspecified/res/values/values.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 119,
+                        "endColumn": 55,
+                        "endOffset": 170
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 101,
+                    "startColumn": 4,
+                    "startOffset": 2571,
+                    "endColumn": 63,
+                    "endOffset": 2630
+                },
+                "from": {
+                    "file": "/Users/mlavigne/development/workspace/cwac-cam2/demo-playground/build/intermediates/exploded-aar/cwac-cam2/cam2/unspecified/res/values/values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 175,
+                        "endColumn": 63,
+                        "endOffset": 234
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 102,
+                    "startColumn": 4,
+                    "startOffset": 2635,
+                    "endColumn": 57,
+                    "endOffset": 2688
+                },
+                "from": {
+                    "file": "/Users/mlavigne/development/workspace/cwac-cam2/demo-playground/build/intermediates/exploded-aar/cwac-cam2/cam2/unspecified/res/values/values.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 239,
+                        "endColumn": 57,
+                        "endOffset": 292
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 103,
+                    "startColumn": 4,
+                    "startOffset": 2693,
+                    "endColumn": 65,
+                    "endOffset": 2754
+                },
+                "from": {
+                    "file": "/Users/mlavigne/development/workspace/cwac-cam2/demo-playground/build/intermediates/exploded-aar/cwac-cam2/cam2/unspecified/res/values/values.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 297,
+                        "endColumn": 65,
+                        "endOffset": 358
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 104,
+                    "startColumn": 4,
+                    "startOffset": 2759,
+                    "endColumn": 57,
+                    "endOffset": 2812
+                },
+                "from": {
+                    "file": "/Users/mlavigne/development/workspace/cwac-cam2/demo-playground/build/intermediates/exploded-aar/cwac-cam2/cam2/unspecified/res/values/values.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 363,
+                        "endColumn": 57,
+                        "endOffset": 416
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 105,
+                    "startColumn": 4,
+                    "startOffset": 2817,
+                    "endColumn": 65,
+                    "endOffset": 2878
+                },
+                "from": {
+                    "file": "/Users/mlavigne/development/workspace/cwac-cam2/demo-playground/build/intermediates/exploded-aar/cwac-cam2/cam2/unspecified/res/values/values.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 421,
+                        "endColumn": 65,
+                        "endOffset": 482
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 109,
+                    "startColumn": 4,
+                    "startOffset": 6744,
+                    "endColumn": 63,
+                    "endOffset": 6803
+                },
+                "from": {
+                    "file": "/Users/mlavigne/development/workspace/cwac-cam2/demo-playground/build/intermediates/exploded-aar/cwac-cam2/cam2/unspecified/res/values/values.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 487,
+                        "endColumn": 63,
+                        "endOffset": 546
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 110,
+                    "startColumn": 4,
+                    "startOffset": 6808,
+                    "endColumn": 72,
+                    "endOffset": 6876
+                },
+                "from": {
+                    "file": "/Users/mlavigne/development/workspace/cwac-cam2/demo-playground/build/intermediates/exploded-aar/cwac-cam2/cam2/unspecified/res/values/values.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 551,
+                        "endColumn": 72,
+                        "endOffset": 619
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 111,
+                    "startColumn": 4,
+                    "startOffset": 6881,
+                    "endColumn": 67,
+                    "endOffset": 6944
+                },
+                "from": {
+                    "file": "/Users/mlavigne/development/workspace/cwac-cam2/demo-playground/build/intermediates/exploded-aar/cwac-cam2/cam2/unspecified/res/values/values.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 624,
+                        "endColumn": 67,
+                        "endOffset": 687
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 112,
+                    "startColumn": 4,
+                    "startOffset": 6949,
+                    "endColumn": 63,
+                    "endOffset": 7008
+                },
+                "from": {
+                    "file": "/Users/mlavigne/development/workspace/cwac-cam2/demo-playground/build/intermediates/exploded-aar/cwac-cam2/cam2/unspecified/res/values/values.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 692,
+                        "endColumn": 63,
+                        "endOffset": 751
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 113,
+                    "startColumn": 4,
+                    "startOffset": 7013,
+                    "endColumn": 67,
+                    "endOffset": 7076
+                },
+                "from": {
+                    "file": "/Users/mlavigne/development/workspace/cwac-cam2/demo-playground/build/intermediates/exploded-aar/cwac-cam2/cam2/unspecified/res/values/values.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 756,
+                        "endColumn": 67,
+                        "endOffset": 819
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 114,
+                    "startColumn": 4,
+                    "startOffset": 7081,
+                    "endColumn": 66,
+                    "endOffset": 7143
+                },
+                "from": {
+                    "file": "/Users/mlavigne/development/workspace/cwac-cam2/demo-playground/build/intermediates/exploded-aar/cwac-cam2/cam2/unspecified/res/values/values.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 824,
+                        "endColumn": 66,
+                        "endOffset": 886
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 115,
+                    "startColumn": 4,
+                    "startOffset": 7148,
+                    "endColumn": 63,
+                    "endOffset": 7207
+                },
+                "from": {
+                    "file": "/Users/mlavigne/development/workspace/cwac-cam2/demo-playground/build/intermediates/exploded-aar/cwac-cam2/cam2/unspecified/res/values/values.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 891,
+                        "endColumn": 63,
+                        "endOffset": 950
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 116,
+                    "startColumn": 4,
+                    "startOffset": 7212,
+                    "endColumn": 44,
+                    "endOffset": 7252
+                },
+                "from": {
+                    "file": "/Users/mlavigne/development/workspace/cwac-cam2/demo-playground/build/intermediates/exploded-aar/com.github.clans/fab/1.6.2/res/values/values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 3579,
+                        "endColumn": 44,
+                        "endOffset": 3619
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 117,
+                    "startColumn": 4,
+                    "startOffset": 7257,
+                    "endColumn": 46,
+                    "endOffset": 7299
+                },
+                "from": {
+                    "file": "/Users/mlavigne/development/workspace/cwac-cam2/demo-playground/build/intermediates/exploded-aar/com.github.clans/fab/1.6.2/res/values/values.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 3624,
+                        "endColumn": 46,
+                        "endOffset": 3666
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 118,
+                    "startColumn": 4,
+                    "startOffset": 7304,
+                    "endColumn": 47,
+                    "endOffset": 7347
+                },
+                "from": {
+                    "file": "/Users/mlavigne/development/workspace/cwac-cam2/demo-playground/build/intermediates/exploded-aar/com.github.clans/fab/1.6.2/res/values/values.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 3671,
+                        "endColumn": 47,
+                        "endOffset": 3714
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 119,
+                    "startColumn": 4,
+                    "startOffset": 7352,
+                    "endColumn": 38,
+                    "endOffset": 7386
+                },
+                "from": {
+                    "file": "/Users/mlavigne/development/workspace/cwac-cam2/demo-playground/build/intermediates/exploded-aar/com.github.clans/fab/1.6.2/res/values/values.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 3719,
+                        "endColumn": 38,
+                        "endOffset": 3753
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 120,
+                    "startColumn": 4,
+                    "startOffset": 7391,
+                    "endColumn": 60,
+                    "endOffset": 7447
+                },
+                "from": {
+                    "file": "/Users/mlavigne/development/workspace/cwac-cam2/demo-playground/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 1,
+                        "startOffset": 53,
+                        "endColumn": 57,
+                        "endOffset": 109
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 121,
+                    "startColumn": 4,
+                    "startOffset": 7452,
+                    "endColumn": 64,
+                    "endOffset": 7512
+                },
+                "from": {
+                    "file": "/Users/mlavigne/development/workspace/cwac-cam2/demo-playground/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 1,
+                        "startOffset": 111,
+                        "endColumn": 61,
+                        "endOffset": 171
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 122,
+                    "startColumn": 4,
+                    "startOffset": 7517,
+                    "endColumn": 43,
+                    "endOffset": 7556
+                },
+                "from": {
+                    "file": "/Users/mlavigne/development/workspace/cwac-cam2/demo-playground/build/intermediates/exploded-aar/cwac-cam2/cam2/unspecified/res/values/values.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 955,
+                        "endColumn": 43,
+                        "endOffset": 994
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 123,
+                    "startColumn": 4,
+                    "startOffset": 7561,
+                    "endColumn": 53,
+                    "endOffset": 7610
+                },
+                "from": {
+                    "file": "/Users/mlavigne/development/workspace/cwac-cam2/demo-playground/build/intermediates/exploded-aar/cwac-cam2/cam2/unspecified/res/values/values.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 999,
+                        "endColumn": 53,
+                        "endOffset": 1048
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 124,
+                    "startColumn": 4,
+                    "startOffset": 7615,
+                    "endColumn": 65,
+                    "endOffset": 7676
+                },
+                "from": {
+                    "file": "/Users/mlavigne/development/workspace/cwac-cam2/demo-playground/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 1,
+                        "startOffset": 1128,
+                        "endColumn": 62,
+                        "endOffset": 1189
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 125,
+                    "startColumn": 4,
+                    "startOffset": 7681,
+                    "endColumn": 61,
+                    "endOffset": 7738
+                },
+                "from": {
+                    "file": "/Users/mlavigne/development/workspace/cwac-cam2/demo-playground/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 1,
+                        "startOffset": 1069,
+                        "endColumn": 58,
+                        "endOffset": 1126
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 126,
+                    "startColumn": 4,
+                    "startOffset": 7743,
+                    "endColumn": 77,
+                    "endOffset": 7816
+                },
+                "from": {
+                    "file": "/Users/mlavigne/development/workspace/cwac-cam2/demo-playground/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 1,
+                        "startOffset": 292,
+                        "endColumn": 74,
+                        "endOffset": 365
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 127,
+                    "startColumn": 4,
+                    "startOffset": 7821,
+                    "endColumn": 53,
+                    "endOffset": 7870
+                },
+                "from": {
+                    "file": "/Users/mlavigne/development/workspace/cwac-cam2/demo-playground/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 1,
+                        "startOffset": 486,
+                        "endColumn": 50,
+                        "endOffset": 535
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 128,
+                    "startColumn": 4,
+                    "startOffset": 7875,
+                    "endColumn": 89,
+                    "endOffset": 7960
+                },
+                "from": {
+                    "file": "/Users/mlavigne/development/workspace/cwac-cam2/demo-playground/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 1,
+                        "startOffset": 1362,
+                        "endColumn": 86,
+                        "endOffset": 1447
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 129,
+                    "startColumn": 4,
+                    "startOffset": 7965,
+                    "endColumn": 62,
+                    "endOffset": 8023
+                },
+                "from": {
+                    "file": "/Users/mlavigne/development/workspace/cwac-cam2/demo-playground/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 1,
+                        "startOffset": 1656,
+                        "endColumn": 59,
+                        "endOffset": 1714
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 130,
+                    "startColumn": 4,
+                    "startOffset": 8028,
+                    "endColumn": 66,
+                    "endOffset": 8090
+                },
+                "from": {
+                    "file": "/Users/mlavigne/development/workspace/cwac-cam2/demo-playground/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 1,
+                        "startOffset": 367,
+                        "endColumn": 63,
+                        "endOffset": 429
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 131,
+                    "startColumn": 4,
+                    "startOffset": 8095,
+                    "endColumn": 75,
+                    "endOffset": 8166
+                },
+                "from": {
+                    "file": "/Users/mlavigne/development/workspace/cwac-cam2/demo-playground/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 1,
+                        "startOffset": 1502,
+                        "endColumn": 72,
+                        "endOffset": 1573
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 132,
+                    "startColumn": 4,
+                    "startOffset": 8171,
+                    "endColumn": 57,
+                    "endOffset": 8224
+                },
+                "from": {
+                    "file": "/Users/mlavigne/development/workspace/cwac-cam2/demo-playground/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 1,
+                        "startOffset": 431,
+                        "endColumn": 54,
+                        "endOffset": 484
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 133,
+                    "startColumn": 4,
+                    "startOffset": 8229,
+                    "endColumn": 61,
+                    "endOffset": 8286
+                },
+                "from": {
+                    "file": "/Users/mlavigne/development/workspace/cwac-cam2/demo-playground/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 1,
+                        "startOffset": 778,
+                        "endColumn": 58,
+                        "endOffset": 835
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 134,
+                    "startColumn": 4,
+                    "startOffset": 8291,
+                    "endColumn": 69,
+                    "endOffset": 8356
+                },
+                "from": {
+                    "file": "/Users/mlavigne/development/workspace/cwac-cam2/demo-playground/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 1,
+                        "startOffset": 949,
+                        "endColumn": 66,
+                        "endOffset": 1014
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 135,
+                    "startColumn": 4,
+                    "startOffset": 8361,
+                    "endColumn": 61,
+                    "endOffset": 8418
+                },
+                "from": {
+                    "file": "/Users/mlavigne/development/workspace/cwac-cam2/demo-playground/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 1,
+                        "startOffset": 173,
+                        "endColumn": 58,
+                        "endOffset": 230
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 136,
+                    "startColumn": 4,
+                    "startOffset": 8423,
+                    "endColumn": 62,
+                    "endOffset": 8481
+                },
+                "from": {
+                    "file": "/Users/mlavigne/development/workspace/cwac-cam2/demo-playground/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 1,
+                        "startOffset": 232,
+                        "endColumn": 59,
+                        "endOffset": 290
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 137,
+                    "startColumn": 4,
+                    "startOffset": 8486,
+                    "endColumn": 55,
+                    "endOffset": 8537
+                },
+                "from": {
+                    "file": "/Users/mlavigne/development/workspace/cwac-cam2/demo-playground/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 1,
+                        "startOffset": 1254,
+                        "endColumn": 52,
+                        "endOffset": 1305
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 138,
+                    "startColumn": 4,
+                    "startOffset": 8542,
+                    "endColumn": 55,
+                    "endOffset": 8593
+                },
+                "from": {
+                    "file": "/Users/mlavigne/development/workspace/cwac-cam2/demo-playground/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 1,
+                        "startOffset": 1016,
+                        "endColumn": 52,
+                        "endOffset": 1067
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 139,
+                    "startColumn": 4,
+                    "startOffset": 8598,
+                    "endColumn": 68,
+                    "endOffset": 8662
+                },
+                "from": {
+                    "file": "/Users/mlavigne/development/workspace/cwac-cam2/demo-playground/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 1,
+                        "startOffset": 605,
+                        "endColumn": 65,
+                        "endOffset": 669
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 140,
+                    "startColumn": 4,
+                    "startOffset": 8667,
+                    "endColumn": 63,
+                    "endOffset": 8726
+                },
+                "from": {
+                    "file": "/Users/mlavigne/development/workspace/cwac-cam2/demo-playground/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 1,
+                        "startOffset": 888,
+                        "endColumn": 60,
+                        "endOffset": 947
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 141,
+                    "startColumn": 4,
+                    "startOffset": 8731,
+                    "endColumn": 61,
+                    "endOffset": 8788
+                },
+                "from": {
+                    "file": "/Users/mlavigne/development/workspace/cwac-cam2/demo-playground/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 30,
+                        "startColumn": 1,
+                        "startOffset": 1716,
+                        "endColumn": 58,
+                        "endOffset": 1773
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 142,
+                    "startColumn": 4,
+                    "startOffset": 8793,
+                    "endColumn": 58,
+                    "endOffset": 8847
+                },
+                "from": {
+                    "file": "/Users/mlavigne/development/workspace/cwac-cam2/demo-playground/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 1,
+                        "startOffset": 722,
+                        "endColumn": 55,
+                        "endOffset": 776
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 143,
+                    "startColumn": 4,
+                    "startOffset": 8852,
+                    "endColumn": 65,
+                    "endOffset": 8913
+                },
+                "from": {
+                    "file": "/Users/mlavigne/development/workspace/cwac-cam2/demo-playground/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 1,
+                        "startOffset": 1191,
+                        "endColumn": 62,
+                        "endOffset": 1252
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 144,
+                    "startColumn": 4,
+                    "startOffset": 8918,
+                    "endColumn": 53,
+                    "endOffset": 8967
+                },
+                "from": {
+                    "file": "/Users/mlavigne/development/workspace/cwac-cam2/demo-playground/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 1,
+                        "startOffset": 837,
+                        "endColumn": 50,
+                        "endOffset": 886
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 145,
+                    "startColumn": 4,
+                    "startOffset": 8972,
+                    "endColumn": 83,
+                    "endOffset": 9051
+                },
+                "from": {
+                    "file": "/Users/mlavigne/development/workspace/cwac-cam2/demo-playground/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 1,
+                        "startOffset": 1575,
+                        "endColumn": 80,
+                        "endOffset": 1654
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 146,
+                    "startColumn": 4,
+                    "startOffset": 9056,
+                    "endColumn": 70,
+                    "endOffset": 9122
+                },
+                "from": {
+                    "file": "/Users/mlavigne/development/workspace/cwac-cam2/demo-playground/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 1,
+                        "startOffset": 537,
+                        "endColumn": 67,
+                        "endOffset": 603
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 147,
+                    "startColumn": 4,
+                    "startOffset": 9127,
+                    "endColumn": 57,
+                    "endOffset": 9180
+                },
+                "from": {
+                    "file": "/Users/mlavigne/development/workspace/cwac-cam2/demo-playground/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 1,
+                        "startOffset": 1307,
+                        "endColumn": 54,
+                        "endOffset": 1360
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 148,
+                    "startColumn": 4,
+                    "startOffset": 9185,
+                    "endColumn": 53,
+                    "endOffset": 9234
+                },
+                "from": {
+                    "file": "/Users/mlavigne/development/workspace/cwac-cam2/demo-playground/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 1,
+                        "startOffset": 671,
+                        "endColumn": 50,
+                        "endOffset": 720
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 149,
+                    "startColumn": 4,
+                    "startOffset": 9239,
+                    "endColumn": 55,
+                    "endOffset": 9290
+                },
+                "from": {
+                    "file": "/Users/mlavigne/development/workspace/cwac-cam2/demo-playground/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 1,
+                        "startOffset": 1449,
+                        "endColumn": 52,
+                        "endOffset": 1500
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 150,
+                    "startColumn": 4,
+                    "startOffset": 9295,
+                    "endLine": 156,
+                    "endColumn": 9,
+                    "endOffset": 9566
+                },
+                "from": {
+                    "file": "/Users/mlavigne/development/workspace/cwac-cam2/demo-playground/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 1,
+                        "startOffset": 177,
+                        "endLine": 12,
+                        "endColumn": 9,
+                        "endOffset": 448
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 157,
+                    "startColumn": 4,
+                    "startOffset": 9571,
+                    "endLine": 159,
+                    "endColumn": 9,
+                    "endOffset": 9717
+                },
+                "from": {
+                    "file": "/Users/mlavigne/development/workspace/cwac-cam2/demo-playground/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 1,
+                        "startOffset": 480,
+                        "endLine": 17,
+                        "endColumn": 9,
+                        "endOffset": 626
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 160,
+                    "startColumn": 4,
+                    "startOffset": 9722,
+                    "endLine": 162,
+                    "endColumn": 9,
+                    "endOffset": 9846
+                },
+                "from": {
+                    "file": "/Users/mlavigne/development/workspace/cwac-cam2/demo-playground/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 1,
+                        "startOffset": 629,
+                        "endLine": 21,
+                        "endColumn": 9,
+                        "endOffset": 753
+                    }
+                }
+            }
+        ]
+    }
+]

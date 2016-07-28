@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$USER_HOME$/development/workspace/cwac-cam2/cam2/cam2.iml" filepath="$USER_HOME$/development/workspace/cwac-cam2/cam2/cam2.iml" />
+      <module fileurl="file://$USER_HOME$/development/workspace/cwac-cam2/cam2-support/cam2-support.iml" filepath="$USER_HOME$/development/workspace/cwac-cam2/cam2-support/cam2-support.iml" />
+      <module fileurl="file://$USER_HOME$/development/workspace/cwac-cam2/cwac-cam2.iml" filepath="$USER_HOME$/development/workspace/cwac-cam2/cwac-cam2.iml" />
+      <module fileurl="file://$USER_HOME$/development/workspace/cwac-cam2/demo/demo.iml" filepath="$USER_HOME$/development/workspace/cwac-cam2/demo/demo.iml" />
+      <module fileurl="file://$USER_HOME$/development/workspace/cwac-cam2/demo-custom/demo-custom.iml" filepath="$USER_HOME$/development/workspace/cwac-cam2/demo-custom/demo-custom.iml" />
+      <module fileurl="file://$USER_HOME$/development/workspace/cwac-cam2/demo-playground/demo-playground.iml" filepath="$USER_HOME$/development/workspace/cwac-cam2/demo-playground/demo-playground.iml" />
+    </modules>
+  </component>
+</project>

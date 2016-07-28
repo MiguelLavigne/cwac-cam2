@@ -1,0 +1,85 @@
+[
+    {
+        "outputFile": "/Users/mlavigne/development/workspace/cwac-cam2/demo-playground/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v21/values-v21.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 40,
+                    "endOffset": 91
+                },
+                "from": {
+                    "file": "/Users/mlavigne/development/workspace/cwac-cam2/demo-playground/src/main/res/values-v21/colors.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 2,
+                        "startOffset": 138,
+                        "endColumn": 38,
+                        "endOffset": 174
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 96,
+                    "endColumn": 41,
+                    "endOffset": 133
+                },
+                "from": {
+                    "file": "/Users/mlavigne/development/workspace/cwac-cam2/demo-playground/src/main/res/values-v21/colors.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 2,
+                        "startOffset": 53,
+                        "endColumn": 39,
+                        "endOffset": 90
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 138,
+                    "endColumn": 46,
+                    "endOffset": 180
+                },
+                "from": {
+                    "file": "/Users/mlavigne/development/workspace/cwac-cam2/demo-playground/src/main/res/values-v21/colors.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 2,
+                        "startOffset": 93,
+                        "endColumn": 44,
+                        "endOffset": 135
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 185,
+                    "endLine": 9,
+                    "endColumn": 10,
+                    "endOffset": 442
+                },
+                "from": {
+                    "file": "/Users/mlavigne/development/workspace/cwac-cam2/demo-playground/src/main/res/values-v21/styles.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 2,
+                        "startOffset": 53,
+                        "endLine": 6,
+                        "endColumn": 10,
+                        "endOffset": 310
+                    }
+                }
+            }
+        ]
+    }
+]

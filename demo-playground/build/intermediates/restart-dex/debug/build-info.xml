@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="armeabi,armeabi-v7a"
+    api-level="23"
+    density="xxhdpi"
+    format="8"
+    timestamp="31008878900960"
+    token="-8399926028226389048"
+    verifier="FULL_BUILD_REQUESTED" >
+
+    <task
+        name="javac"
+        duration="964" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="1241" />
+    <task
+        name="verifier"
+        duration="190" />
+
+    <artifact
+        location="/Users/mlavigne/development/workspace/cwac-cam2/demo-playground/build/outputs/apk/demo-playground-debug.apk"
+        type="MAIN" />
+
+    <build
+        timestamp="31008878900960"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="/Users/mlavigne/development/workspace/cwac-cam2/demo-playground/build/outputs/apk/demo-playground-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>

@@ -1,0 +1,7 @@
+#Wed Jul 27 16:05:06 EDT 2016
+base.0=/Users/mlavigne/development/workspace/cwac-cam2/demo/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_fbc89b4d03e70f2a068aeecc7cad48f86e29d6d7
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/Users/mlavigne/development/workspace/cwac-cam2/demo/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_c9f7a680d4506d439e7f517c2905aaa4b0e845e1/classes.dex
+base.1=/Users/mlavigne/development/workspace/cwac-cam2/demo/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_c9f7a680d4506d439e7f517c2905aaa4b0e845e1
+file.0=/Users/mlavigne/development/workspace/cwac-cam2/demo/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_fbc89b4d03e70f2a068aeecc7cad48f86e29d6d7/classes.dex

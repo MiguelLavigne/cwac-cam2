@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/mlavigne/development/workspace/cwac-cam2/demo-custom/build/intermediates/exploded-aar/com.github.clans/fab/1.6.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.1"
+        sha1="7e6a161b3796c15fe00755ce47e03067e568ecc4">
+        <dex dex="/Users/mlavigne/development/workspace/cwac-cam2/demo-custom/build/intermediates/transforms/dex/debug/folders/1000/10/com.github.clans-fab-1.6.2_546c09de48f93754b0a84b3ff756690d87722bf0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mlavigne/.gradle/caches/modules-2/files-2.1/de.greenrobot/eventbus/2.4.0/ddd166d01b3158d1c00576d29f7ed15c030df719/eventbus-2.4.0.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.1"
+        sha1="ddd166d01b3158d1c00576d29f7ed15c030df719">
+        <dex dex="/Users/mlavigne/development/workspace/cwac-cam2/demo-custom/build/intermediates/transforms/dex/debug/folders/1000/10/eventbus-2.4.0_93be6a095567507b02d79163ddb8847d9fd3c0d4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mlavigne/development/workspace/cwac-cam2/demo-playground/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.0"
+        sha1="1db9b42af2e0370aadf45e1c9608b5f565181705">
+        <dex dex="/Users/mlavigne/development/workspace/cwac-cam2/demo-playground/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_62176736439b31e000f88f2e4dfa45155d243359/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mlavigne/development/workspace/cwac-cam2/demo-custom/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.1"
+        sha1="787871951412550519b0222aba3c9df4cea49875">
+        <dex dex="/Users/mlavigne/development/workspace/cwac-cam2/demo-custom/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-24.1.1_0c7322fd0d34828061234e9fa60b056fba105f64/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mlavigne/development/workspace/cwac-cam2/demo-custom/build/intermediates/exploded-aar/com.android.support/support-v4/24.1.1/jars/libs/internal_impl-24.1.1.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.1"
+        sha1="f78c2f395cb096f9dc1dc07e729922b8fcd3c4f5">
+        <dex dex="/Users/mlavigne/development/workspace/cwac-cam2/demo-custom/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.1.1_c23fd5c6ac9baa349ad551d4b3be3450274fbc46/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mlavigne/development/workspace/cwac-cam2/demo-custom/build/intermediates/exploded-aar/com.android.support/design/24.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.1"
+        sha1="e195bd694d5389acfba27ff4fdfa64c4c65b2c05">
+        <dex dex="/Users/mlavigne/development/workspace/cwac-cam2/demo-custom/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-24.1.1_988b471894b8587636b6556378da25ae4261ae9d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mlavigne/development/workspace/cwac-cam2/demo-playground/build/intermediates/exploded-aar/com.davemorrissey.labs/subsampling-scale-image-view/3.1.4/jars/classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.0"
+        sha1="bee3db5fa7bb9cd0e8f08070a34ca6e67f969fb6">
+        <dex dex="/Users/mlavigne/development/workspace/cwac-cam2/demo-playground/build/intermediates/transforms/dex/debug/folders/1000/10/com.davemorrissey.labs-subsampling-scale-image-view-3.1.4_2272c057335e17aa78df6fab0387f6f4733be09e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mlavigne/development/workspace/cwac-cam2/demo-custom/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.1"
+        sha1="f35400dedf06501cd31611a012b4a1d7812fd10f">
+        <dex dex="/Users/mlavigne/development/workspace/cwac-cam2/demo-custom/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_dab5769587afb5a07b76c69e5fd308d87f093b5c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mlavigne/development/workspace/cwac-cam2/demo-custom/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.1"
+        sha1="1256c10604bb098490eab070d76754ac5ceab35c">
+        <dex dex="/Users/mlavigne/development/workspace/cwac-cam2/demo-custom/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.1.1_b2809727bcec95fbc9c00165735e3bd5f25d50cc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mlavigne/.gradle/caches/modules-2/files-2.1/de.greenrobot/eventbus/2.4.0/ddd166d01b3158d1c00576d29f7ed15c030df719/eventbus-2.4.0.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.0"
+        sha1="ddd166d01b3158d1c00576d29f7ed15c030df719">
+        <dex dex="/Users/mlavigne/development/workspace/cwac-cam2/demo/build/intermediates/transforms/dex/debug/folders/1000/10/eventbus-2.4.0_93be6a095567507b02d79163ddb8847d9fd3c0d4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mlavigne/development/sdks/android-sdk-macosx/extras/android/m2repository/com/android/support/support-annotations/20.0.0/support-annotations-20.0.0.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.0"
+        sha1="9d9013e9ff35fc3756411e62873c363c70c638fa">
+        <dex dex="/Users/mlavigne/development/workspace/cwac-cam2/demo-playground/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-20.0.0_378519767a4f2ae5fa8d0d61c05edba6e3aa3f17/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mlavigne/development/workspace/cwac-cam2/demo-playground/build/intermediates/exploded-aar/com.github.clans/fab/1.6.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.0"
+        sha1="7e6a161b3796c15fe00755ce47e03067e568ecc4">
+        <dex dex="/Users/mlavigne/development/workspace/cwac-cam2/demo-playground/build/intermediates/transforms/dex/debug/folders/1000/10/com.github.clans-fab-1.6.2_8dd5663f086b60ddbb0a1f1304742bc5b9c21952/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mlavigne/development/workspace/cwac-cam2/demo/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.0"
+        sha1="4cd10d4a8be4a38785b84723ec8305c0f13f5573">
+        <dex dex="/Users/mlavigne/development/workspace/cwac-cam2/demo/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_fbc89b4d03e70f2a068aeecc7cad48f86e29d6d7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mlavigne/development/workspace/cwac-cam2/demo-playground/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.0"
+        sha1="3db208913d206caba4429a429e6ee8d313753cd0">
+        <dex dex="/Users/mlavigne/development/workspace/cwac-cam2/demo-playground/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_65842a1e26f7679a6db368daef9746fee9505d81/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mlavigne/development/sdks/android-sdk-macosx/extras/android/m2repository/com/android/support/support-annotations/24.1.1/support-annotations-24.1.1.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.1"
+        sha1="3af19f153122737b372622fa6c81dd11a1c6b999">
+        <dex dex="/Users/mlavigne/development/workspace/cwac-cam2/demo-custom/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.1.1_282783337bf791f2d0b4408ef29f4367e593d7a2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mlavigne/development/workspace/cwac-cam2/demo-custom/build/intermediates/exploded-aar/com.android.support/support-v4/24.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.1"
+        sha1="6d7d803871e3203465f71a163e7af104f807b446">
+        <dex dex="/Users/mlavigne/development/workspace/cwac-cam2/demo-custom/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.1.1_69fa266cafeb9e78f896dbc41a88f01e7967e241/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mlavigne/development/workspace/cwac-cam2/demo-custom/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.1"
+        sha1="f62e763609f65e47dc6c498760a4accf02776788">
+        <dex dex="/Users/mlavigne/development/workspace/cwac-cam2/demo-custom/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.1.1_71f2e5db9ce6bcb5c83ef82ee8bd7a5378178d35/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mlavigne/development/workspace/cwac-cam2/demo-custom/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.1"
+        sha1="9434ccdcb66ba04c3ea9d55bd50b49cfbf9ef70c">
+        <dex dex="/Users/mlavigne/development/workspace/cwac-cam2/demo-custom/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_26d9b6f16e503d9b962222ba67373f57671d35dc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mlavigne/.gradle/caches/modules-2/files-2.1/com.squareup.moshi/moshi/0.9.0/f066cb67e606de3e8ec92582a1b0ebae2b08fcc7/moshi-0.9.0.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.0"
+        sha1="f066cb67e606de3e8ec92582a1b0ebae2b08fcc7">
+        <dex dex="/Users/mlavigne/development/workspace/cwac-cam2/demo/build/intermediates/transforms/dex/debug/folders/1000/10/moshi-0.9.0_74c7c59a9a97f97c9ded7ed9e5f046abcb1cdfba/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mlavigne/development/workspace/cwac-cam2/demo/build/intermediates/exploded-aar/com.commonsware.cwac/security/0.6.3/jars/classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.0"
+        sha1="787a5bf0f49428cd33fc671446961c6bb0f4b253">
+        <dex dex="/Users/mlavigne/development/workspace/cwac-cam2/demo/build/intermediates/transforms/dex/debug/folders/1000/10/com.commonsware.cwac-security-0.6.3_b8e4b7e6b0c12ba06253d887b7e0286aa85d5240/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mlavigne/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.4.0/5b72bf48563ea8410e650de14aa33ff69a3e8c35/okio-1.4.0.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.0"
+        sha1="5b72bf48563ea8410e650de14aa33ff69a3e8c35">
+        <dex dex="/Users/mlavigne/development/workspace/cwac-cam2/demo/build/intermediates/transforms/dex/debug/folders/1000/10/okio-1.4.0_9d05acf94035783ef664e697b749c165b8ce41c6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mlavigne/development/workspace/cwac-cam2/demo/build/intermediates/exploded-aar/com.github.clans/fab/1.6.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.0"
+        sha1="7e6a161b3796c15fe00755ce47e03067e568ecc4">
+        <dex dex="/Users/mlavigne/development/workspace/cwac-cam2/demo/build/intermediates/transforms/dex/debug/folders/1000/10/com.github.clans-fab-1.6.2_ea4b61d0eef6ba84a58ae6e47ed71fe4f1ae2564/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mlavigne/development/workspace/cwac-cam2/demo/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.0"
+        sha1="549edfd8a2ba1bc0ebd27ec641150a7f5e46ef2b">
+        <dex dex="/Users/mlavigne/development/workspace/cwac-cam2/demo/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_c9f7a680d4506d439e7f517c2905aaa4b0e845e1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mlavigne/development/workspace/cwac-cam2/demo-custom/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.1"
+        sha1="c936c1bd42f0c018c18920c7bec619ef056b24f8">
+        <dex dex="/Users/mlavigne/development/workspace/cwac-cam2/demo-custom/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.1.1_7f04b21723eb9612485ea1113b3f8d1fff089b82/classes.dex" />
+    </item>
+
+</items>

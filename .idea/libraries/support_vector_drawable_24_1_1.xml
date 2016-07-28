@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="support-vector-drawable-24.1.1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/development/workspace/cwac-cam2/demo-custom/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.1.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/development/workspace/cwac-cam2/demo-custom/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.1.1/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/development/sdks/android-sdk-macosx/extras/android/m2repository/com/android/support/support-vector-drawable/24.1.1/support-vector-drawable-24.1.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

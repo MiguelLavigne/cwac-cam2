@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/mlavigne/development/workspace/cwac-cam2/demo-playground/build/intermediates/res/merged/debug/xml/prefs_video.xml",
+        "source": "/Users/mlavigne/development/workspace/cwac-cam2/demo-playground/src/main/res/xml/prefs_video.xml"
+    },
+    {
+        "merged": "/Users/mlavigne/development/workspace/cwac-cam2/demo-playground/build/intermediates/res/merged/debug/xml/prefs_picture.xml",
+        "source": "/Users/mlavigne/development/workspace/cwac-cam2/demo-playground/src/main/res/xml/prefs_picture.xml"
+    }
+]

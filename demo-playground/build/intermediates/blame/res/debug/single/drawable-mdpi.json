@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/mlavigne/development/workspace/cwac-cam2/demo-playground/build/intermediates/res/merged/debug/drawable-mdpi/ic_camera_alt_white_24dp.png",
+        "source": "/Users/mlavigne/development/workspace/cwac-cam2/demo-playground/src/main/res/drawable-mdpi/ic_camera_alt_white_24dp.png"
+    },
+    {
+        "merged": "/Users/mlavigne/development/workspace/cwac-cam2/demo-playground/build/intermediates/res/merged/debug/drawable-mdpi/ic_launcher.png",
+        "source": "/Users/mlavigne/development/workspace/cwac-cam2/demo-playground/src/main/res/drawable-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/mlavigne/development/workspace/cwac-cam2/demo-playground/build/intermediates/res/merged/debug/drawable-mdpi/ic_camera_white_24dp.png",
+        "source": "/Users/mlavigne/development/workspace/cwac-cam2/demo-playground/src/main/res/drawable-mdpi/ic_camera_white_24dp.png"
+    },
+    {
+        "merged": "/Users/mlavigne/development/workspace/cwac-cam2/demo-playground/build/intermediates/res/merged/debug/drawable-mdpi/ic_videocam_white_24dp.png",
+        "source": "/Users/mlavigne/development/workspace/cwac-cam2/demo-playground/src/main/res/drawable-mdpi/ic_videocam_white_24dp.png"
+    }
+]

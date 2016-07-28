@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/Users/mlavigne/development/workspace/cwac-cam2/cam2-support/src/main/shaders"/></dataSet><dataSet config="debug"><source path="/Users/mlavigne/development/workspace/cwac-cam2/cam2-support/src/debug/shaders"/></dataSet></merger>

@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="chronoTypes">
+    <item>None</item>
+    <item>Count Down</item>
+    <item>Count Up</item>
+  </string-array>
+    <string-array name="chronoValues">
+    <item>0</item>
+    <item>1</item>
+    <item>2</item>
+  </string-array>
+    <string-array name="confirmationQuality">
+    <item>Default</item>
+    <item>0.01</item>
+    <item>0.1</item>
+    <item>0.5</item>
+    <item>1.0</item>
+  </string-array>
+    <string-array name="durationValues">
+    <item>0</item>
+    <item>5000</item>
+    <item>15000</item>
+    <item>60000</item>
+  </string-array>
+    <string-array name="durations">
+    <item>No limit</item>
+    <item>5 seconds</item>
+    <item>15 seconds</item>
+    <item>60 seconds</item>
+  </string-array>
+    <string-array name="engineValues">
+    <item>0</item>
+    <item>1</item>
+    <item>2</item>
+  </string-array>
+    <string-array name="engines">
+    <item>Default</item>
+    <item>Classic</item>
+    <item>Camera2</item>
+  </string-array>
+    <string-array name="flashModeValues">
+    <item>0</item>
+    <item>1</item>
+    <item>2</item>
+    <item>3</item>
+    <item>4</item>
+  </string-array>
+    <string-array name="flashModes">
+    <item>Off</item>
+    <item>Always On</item>
+    <item>Auto</item>
+    <item>Redeye-Reduction Mode</item>
+    <item>Torch</item>
+  </string-array>
+    <string-array name="focusModeValues">
+    <item>0</item>
+    <item>1</item>
+    <item>2</item>
+    <item>3</item>
+  </string-array>
+    <string-array name="focusModes">
+    <item>Continuous</item>
+    <item>Off</item>
+    <item>Extended depth-of-field</item>
+    <item>Macro</item>
+  </string-array>
+    <string-array name="olockTypes">
+    <item>Default</item>
+    <item>Portrait</item>
+    <item>Landscape</item>
+  </string-array>
+    <string-array name="olockValues">
+    <item>0</item>
+    <item>1</item>
+    <item>2</item>
+  </string-array>
+    <string-array name="sizeValues">
+    <item>0</item>
+    <item>1048576</item>
+    <item>5242880</item>
+    <item>26214400</item>
+  </string-array>
+    <string-array name="sizes">
+    <item>No limit</item>
+    <item>1 MB</item>
+    <item>5 MB</item>
+    <item>25 MB</item>
+  </string-array>
+    <string-array name="zoomStyleValues">
+    <item>0</item>
+    <item>1</item>
+    <item>2</item>
+  </string-array>
+    <string-array name="zoomStyles">
+    <item>None</item>
+    <item>Pinch</item>
+    <item>Slider</item>
+  </string-array>
+    <color name="cwac_cam2_chrono_background">#80808080</color>
+    <color name="cwac_cam2_picture_fab">#00a400</color>
+    <color name="cwac_cam2_picture_fab_pressed">#00da00</color>
+    <color name="cwac_cam2_recording_fab">#da4336</color>
+    <color name="cwac_cam2_recording_fab_pressed">#e75043</color>
+    <color name="cwac_cam2_secondary_fab">#fafafa</color>
+    <color name="cwac_cam2_secondary_fab_pressed">#f1f1f1</color>
+    <declare-styleable name="FloatingActionButton"><attr format="color" name="fab_colorNormal"/><attr format="color" name="fab_colorPressed"/><attr format="color" name="fab_colorDisabled"/><attr format="color" name="fab_colorRipple"/><attr format="boolean" name="fab_showShadow"/><attr format="color" name="fab_shadowColor"/><attr format="dimension" name="fab_shadowRadius"/><attr format="dimension" name="fab_shadowXOffset"/><attr format="dimension" name="fab_shadowYOffset"/><attr format="enum" name="fab_size"><enum name="normal" value="0"/><enum name="mini" value="1"/></attr><attr format="reference" name="fab_showAnimation"/><attr format="reference" name="fab_hideAnimation"/><attr format="string" name="fab_label"/><attr format="dimension" name="fab_elevationCompat"/><attr format="color" name="fab_progress_color"/><attr format="color" name="fab_progress_backgroundColor"/><attr format="boolean" name="fab_progress_indeterminate"/><attr format="integer" name="fab_progress_max"/><attr format="integer" name="fab_progress"/><attr format="boolean" name="fab_progress_showBackground"/></declare-styleable>
+    <declare-styleable name="FloatingActionMenu"><attr format="boolean" name="menu_showShadow"/><attr format="dimension" name="menu_buttonSpacing"/><attr format="dimension" name="menu_labels_margin"/><attr format="reference" name="menu_labels_showAnimation"/><attr format="reference" name="menu_labels_hideAnimation"/><attr format="dimension" name="menu_labels_paddingTop"/><attr format="dimension" name="menu_labels_paddingLeft"/><attr format="dimension" name="menu_labels_paddingRight"/><attr format="dimension" name="menu_labels_paddingBottom"/><attr format="dimension" name="menu_labels_padding"/><attr format="reference|color" name="menu_labels_textColor"/><attr format="dimension" name="menu_labels_textSize"/><attr format="dimension" name="menu_labels_cornerRadius"/><attr format="boolean" name="menu_labels_showShadow"/><attr format="color" name="menu_labels_colorNormal"/><attr format="color" name="menu_labels_colorPressed"/><attr format="color" name="menu_labels_colorRipple"/><attr format="enum" name="menu_labels_position"><enum name="left" value="0"/><enum name="right" value="1"/></attr><attr format="reference" name="menu_icon"/><attr format="integer" name="menu_animationDelayPerItem"/><attr format="reference" name="menu_buttonToggleAnimation"/><attr format="boolean" name="menu_labels_singleLine"/><attr format="enum" name="menu_labels_ellipsize"><enum name="none" value="0"/><enum name="start" value="1"/><enum name="middle" value="2"/><enum name="end" value="3"/><enum name="marquee" value="4"/></attr><attr format="integer" name="menu_labels_maxLines"/><attr format="enum" name="menu_fab_size"><enum name="normal" value="0"/><enum name="mini" value="1"/></attr><attr format="reference" name="menu_labels_style"/><attr format="color" name="menu_shadowColor"/><attr format="dimension" name="menu_shadowRadius"/><attr format="dimension" name="menu_shadowXOffset"/><attr format="dimension" name="menu_shadowYOffset"/><attr format="color" name="menu_colorNormal"/><attr format="color" name="menu_colorPressed"/><attr format="color" name="menu_colorRipple"/><attr format="enum" name="menu_openDirection"><enum name="up" value="0"/><enum name="down" value="1"/></attr><attr format="color" name="menu_backgroundColor"/><attr format="string" name="menu_fab_label"/><attr format="reference" name="menu_fab_show_animation"/><attr format="reference" name="menu_fab_hide_animation"/></declare-styleable>
+    <declare-styleable name="SubsamplingScaleImageView"><attr format="reference" name="src"/><attr format="string" name="assetName"/><attr format="boolean" name="panEnabled"/><attr format="boolean" name="zoomEnabled"/><attr format="boolean" name="quickScaleEnabled"/><attr format="color" name="tileBackgroundColor"/></declare-styleable>
+    <dimen name="cwac_cam2_fragment_chrono_margin">16dp</dimen>
+    <dimen name="cwac_cam2_fragment_drawer_offset_distance">16dp</dimen>
+    <dimen name="cwac_cam2_fragment_drawer_shadow_size">4dp</dimen>
+    <dimen name="cwac_cam2_fragment_drawer_width">128dp</dimen>
+    <dimen name="cwac_cam2_fragment_panel_item_height">48dp</dimen>
+    <dimen name="cwac_cam2_fragment_panel_item_width">96dp</dimen>
+    <dimen name="cwac_cam2_fragment_panel_padding">16dp</dimen>
+    <dimen name="fab_size_mini">40dp</dimen>
+    <dimen name="fab_size_normal">56dp</dimen>
+    <dimen name="labels_text_size">14sp</dimen>
+    <item name="fab_label" type="id"/>
+    <string name="app_name">Cam2 Picture Playground</string>
+    <string name="app_name_video">Cam2 Video Playground</string>
+    <string name="cwac_cam2_ok">OK</string>
+    <string name="cwac_cam2_retry">Try again</string>
+    <string name="menu_switch_picture">Switch to Picture</string>
+    <string name="menu_switch_video">Switch to Video</string>
+    <string name="summary_file">If off, captures a thumbnail instead</string>
+    <string name="take_picture">Take picture</string>
+    <string name="title_allow_switch_flash_mode">Allow user to switch flash mode</string>
+    <string name="title_chrono_type">Chronometer type</string>
+    <string name="title_confirm">Show confirmation screen</string>
+    <string name="title_confirmation_quality">Confirmation quality</string>
+    <string name="title_debug">Enable debug mode</string>
+    <string name="title_duration">Set duration limit</string>
+    <string name="title_exact_match">Fail if no camera match</string>
+    <string name="title_ffc">Use front-facing camera</string>
+    <string name="title_file">Save full image to file</string>
+    <string name="title_flash_mode">Flash mode</string>
+    <string name="title_focus_mode">Focus mode</string>
+    <string name="title_force_engine">Force specific engine</string>
+    <string name="title_mirror_preview">Mirror preview</string>
+    <string name="title_olock">Orientation lock mode</string>
+    <string name="title_quality">Use high quality</string>
+    <string name="title_save_preview">Save preview frame</string>
+    <string name="title_size">Set size limit</string>
+    <string name="title_skip_orient_normal">Skip orientation normalization</string>
+    <string name="title_update_media_store">Update MediaStore</string>
+    <string name="title_use_chooser">Use chooser</string>
+    <string name="title_video">Capture video</string>
+    <string name="title_zoom_style">Zoom style</string>
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+		<!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+		-->
+	</style>
+    <style name="AppTheme" parent="AppBaseTheme">
+		<!-- All customizations that are NOT specific to a particular API-level can go here. -->
+	</style>
+    <style name="Cam2OverrideTheme" parent="AppTheme">
+		<!--<item name="android:windowContentOverlay">@null</item>-->
+	</style>
+</resources>
